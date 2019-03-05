@@ -19,7 +19,7 @@
 02_ASP.NET_个人空间相册:
 
 项目实战02：ASP.NET：B/S结构 个人空间相册、照片上传下载系统
-博文网址：项目实战：ASP.NET：B/S结构 个人空间相册、照片上传下载系统
+博文网址：https://blog.csdn.net/qq_33154343/article/details/80445226
 
 源码:hua.test.zip
 数据库SQLServer 2012:hua.test.sql
