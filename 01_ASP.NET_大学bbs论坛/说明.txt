@@ -1,0 +1,7 @@
+01_ASP.NET_大学bbs论坛:
+
+源码:hua_bbs.zip
+
+数据库:hua_bbs[2018-5-16].sql   hua_bbs[2018-5-25].sql
+
+开发文档:ASP_NET的程序开发.doc
