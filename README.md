@@ -19,7 +19,7 @@
 
 ## 项目运行演示：
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 **02_ASP.NET_个人空间相册:**
