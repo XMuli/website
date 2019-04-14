@@ -67,7 +67,7 @@
 
 ## 项目运行演示：
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 
