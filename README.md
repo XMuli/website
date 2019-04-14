@@ -18,7 +18,7 @@
 数据库创建，任选一个其中的任意一个 即可]
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png"  height="300" width="400">    <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
@@ -30,8 +30,7 @@
 数据库SQLServer 2012:hua.test.sql
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/photos_1.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/photos_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 **03_ASP.NET_学生-教师系统**
@@ -44,10 +43,8 @@
 使用代码生成器创建MVC底层2018-06-16_190300.wmv     使用代码生成器创建MVC底层2018-06-16_190300.wmv    图片素材 
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_1.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_3.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_4.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/student_teacher_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 **04_ASP.NET_通讯录:**
@@ -58,10 +55,8 @@
 数据库SQLServer 2012:hua.mvc.sql
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 **05_PB_Oracle_学生教务管理系统：**
@@ -76,10 +71,8 @@
 数据库oracle：遗失
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 
