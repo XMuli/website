@@ -5,11 +5,10 @@
 网站设计一类源码仓库
 
 ------------------------------------------------------------------------------
-01_ASP.NET_大学bbs论坛:
+**01_ASP.NET_大学bbs论坛:**
 
-项目实战01：ASP.NET：C/S架构 大学BBS论坛项目（推荐）
-
-博文网址：https://blog.csdn.net/qq_33154343/article/details/80445982
+[ASP.NET：C/S架构 大学BBS论坛项目（推荐）](https://blog.csdn.net/qq_33154343/article/details/80445982
+)
 
 源码:hua_bbs.zip
 
@@ -18,6 +17,14 @@
 开发文档:ASP_NET的程序开发.doc
 
 数据库创建，任选一个其中的任意一个 即可]
+## 项目运行演示：
+![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png)
+![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png)
+![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png)
+
+
+
+
 
 ------------------------------------------------------------------------------
 02_ASP.NET_个人空间相册:
