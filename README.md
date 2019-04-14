@@ -30,7 +30,7 @@
 数据库SQLServer 2012:hua.test.sql
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/photos_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/photos_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/photos_2.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 **03_ASP.NET_学生-教师系统**
@@ -67,7 +67,7 @@
 
 ## 项目运行演示：
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
 
 ------------------------------------------------------------------------------
 
