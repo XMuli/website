@@ -55,9 +55,7 @@
 数据库SQLServer 2012:hua.mvc.sql
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_2.png"  height="300" width="400">
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/academic_4.png"  height="300" width="400">
-
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/address_book_1.png"  height="300" width="400"><img 
 ------------------------------------------------------------------------------
 **05_PB_Oracle_学生教务管理系统：**
 [项目实战：PB／ORACLE：C/S架构 学生成绩教务管理系统](https://blog.csdn.net/qq_33154343/article/details/80444737)
