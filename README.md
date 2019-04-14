@@ -8,7 +8,7 @@
 **01_ASP.NET_大学bbs论坛:**
 
 [ASP.NET：C/S架构 大学BBS论坛项目（推荐）](https://blog.csdn.net/qq_33154343/article/details/80445982
-)
+)<img src="http://pic15.photophoto.cn/20100615/0006019058815826_b.jpg"  height="330" width="495">
 
 源码:hua_bbs.zip
 
@@ -18,12 +18,9 @@
 
 数据库创建，任选一个其中的任意一个 即可]
 ## 项目运行演示：
-![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png)
-![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png)
-![Image text](https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png)
-
-
-
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png"  height="330" width="495">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="330" width="495">
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png"  height="330" width="495">
 
 
 ------------------------------------------------------------------------------
