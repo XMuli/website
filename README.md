@@ -34,7 +34,7 @@
 
 ------------------------------------------------------------------------------
 **03_ASP.NET_学生-教师系统**
-[项目实战：C/S 和B/S双架构开发"学生-教师管理系统]https://blog.csdn.net/qq_33154343/article/details/80764005)
+[ASP.NET：B/S结构 个人空间相册、照片上传下载系统](https://blog.csdn.net/qq_33154343/article/details/80764005)
 
 源码:hua_elective 【C／Ｓ源码】.zip   hua_elective【Ｂ／Ｓ源码】.zip
 
@@ -55,14 +55,11 @@
 数据库SQLServer 2012:hua.mvc.sql
 
 ## 项目运行演示：
-<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/address_book_1.png"  height="300" width="400"><img 
+<img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/address_book_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/address_book_2.png"  height="300" width="400">
+
 ------------------------------------------------------------------------------
 **05_PB_Oracle_学生教务管理系统：**
 [项目实战：PB／ORACLE：C/S架构 学生成绩教务管理系统](https://blog.csdn.net/qq_33154343/article/details/80444737)
-
-项目实战05：PB／ORACLE：C/S架构 学生成绩教务管理系统
-
-博文网址：https://blog.csdn.net/qq_33154343/article/details/80444737
 
 源码:学生成绩教务管理系统源码[Ｃ／Ｓ架构].zip
 
