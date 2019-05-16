@@ -18,6 +18,8 @@
 数据库创建，任选一个其中的任意一个 即可]
 
 ## 项目运行演示：
+[点我跳转视频，观看演示 ](https://www.bilibili.com/video/av45528410)
+
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_1.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_2.png"  height="300" width="400">
 <img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_3.png"  height="300" width="400"><img src="https://github.com/touwoyimuli/2018_01_website/blob/master/images/bbs_4.png"  height="300" width="400">
 
