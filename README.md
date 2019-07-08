@@ -33,21 +33,21 @@
 
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">**版本:**</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
+<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">**源码下载:**</font> [01_ASP.NET_大学bbs论坛](https://github.com/touwoyimuli/2018_01_website/tree/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B)
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [01_ASP.NET_大学bbs论坛](https://github.com/touwoyimuli/2018_01_website/tree/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B)
 
-<font color=#70AD47 size=4 face="幼圆">**附件说明：**</font> [数据库SQLServer 2012脚本：hua_bbs[2018-5-25].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/hua_bbs%5B2018-5-25%5D.sql)      [ASP_NET的大学bbs论坛程序开发.doc](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/ASP_NET%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.doc)
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012脚本：hua_bbs[2018-5-25].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/hua_bbs%5B2018-5-25%5D.sql)      [ASP_NET的大学bbs论坛程序开发.doc](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/ASP_NET%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.doc)
 
 ### 项目运行演示：
 
-<font color=#70AD47 size=4 face="幼圆">**视频演示：**</font> [2018_01_ASP.NET_大学bbs论坛演示](https://www.bilibili.com/video/av45528410)
+<font color=#70AD47 size=4 face="幼圆">视频演示：</font> [2018_01_ASP.NET_大学bbs论坛演示](https://www.bilibili.com/video/av45528410)
 
-<font color=#FE7207  size=4 face="幼圆">**b/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709034958.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035129.png" height="300" width="400"/>
 
