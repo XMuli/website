@@ -41,7 +41,7 @@
 
 <font color=#70AD47 size=4 face="幼圆">源码下载:</font> [01_ASP.NET_大学bbs论坛](https://github.com/touwoyimuli/2018_01_website/tree/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B)
 
-<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012脚本：hua_bbs[2018-5-25].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/hua_bbs%5B2018-5-25%5D.sql)      [ASP_NET的大学bbs论坛程序开发.doc](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/ASP_NET%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.doc)
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012脚本：hua_bbs[2018-5-25].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/hua_bbs%5B2018-5-25%5D.sql)、 [ASP_NET的大学bbs论坛程序开发.doc](https://github.com/touwoyimuli/2018_01_website/blob/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B/ASP_NET%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91.doc)
 
 ### 项目运行演示：
 
@@ -61,29 +61,23 @@
 
 [ASP.NET：B/S结构 个人空间相册、照片上传下载系统](https://blog.csdn.net/qq_33154343/article/details/80445226)
 
-<br>
-
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">**版本:**</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
+<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">**源码下载:**</font> [02_ASP.NET_个人空间相册](https://github.com/touwoyimuli/2018_01_website/tree/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C)
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [02_ASP.NET_个人空间相册](https://github.com/touwoyimuli/2018_01_website/tree/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C)
 
-<font color=#70AD47 size=4 face="幼圆">**附件说明：**</font> [数据库SQLServer 2012脚本：hua.test.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C/hua.test.sql)
-
-<br>
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012脚本：hua.test.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C/hua.test.sql)
 
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">**b/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035553.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035559.png" height="300" width="400"/>
-
-<br>
 
 <br>
 
@@ -93,37 +87,31 @@
 
 [**项目实战： C/S 和 B/S 双架构开发 "学生-教师 管理系统"分工维护开发**](https://blog.csdn.net/qq_33154343/article/details/80764005)
 
-<br>
-
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">**版本:**</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  ![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  ![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
+<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">**源码下载:**</font> [03_ASP.NET_学生-教师系统]([https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_学生-教师系统))
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [03_ASP.NET_学生-教师系统]([https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_学生-教师系统))
 
-<font color=#70AD47 size=4 face="幼圆">**附件说明：**</font> [E-R图设计](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/E-R%E5%9B%BE%E8%AE%BE%E8%AE%A1)、 [图片素材](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90)、 [数据库SQLServer 2012：hua_elective[带数据和架构].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%5B%E5%B8%A6%E6%95%B0%E6%8D%AE%E5%92%8C%E6%9E%B6%E6%9E%84%5D.sql)、
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [E-R图设计](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/E-R%E5%9B%BE%E8%AE%BE%E8%AE%A1)、 [图片素材](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90)、 [数据库SQLServer 2012：hua_elective[带数据和架构].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%5B%E5%B8%A6%E6%95%B0%E6%8D%AE%E5%92%8C%E6%9E%B6%E6%9E%84%5D.sql)、
 
 ​                       [hua_elective 【C／Ｓ源码】.zip](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%20%E3%80%90C%EF%BC%8F%EF%BC%B3%E6%BA%90%E7%A0%81%E3%80%91.zip)、 [hua_elective【Ｂ／Ｓ源码】.zip](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%E3%80%90%EF%BC%A2%EF%BC%8F%EF%BC%B3%E6%BA%90%E7%A0%81%E3%80%91.zip)、 
 
 ​                       [使用代码生成器创建MVC底层2018-06-16_190300.wm视频](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E5%88%9B%E5%BB%BAMVC%E5%BA%95%E5%B1%822018-06-16_190300.wmv)
 
-<br>
-
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">**c/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">c/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035804.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035812.png" height="300" width="400"/>
 
-<font color=#FE7207  size=4 face="幼圆">**b/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035822.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035850.png" height="300" width="400"/>
-
-<br>
 
 <br>
 
@@ -133,29 +121,23 @@
 
 [项目实战：ASSP.NET：通讯录](https://blog.csdn.net/qq_33154343/article/details/80445571)
 
-<br>
-
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">**版本:**</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  
 
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
+<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">**源码下载:**</font> [04_ASP.NET_通讯录](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.zip)
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [04_ASP.NET_通讯录](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.zip)
 
-<font color=#70AD47 size=4 face="幼圆">**附件说明：**</font> [数据库SQLServer 2012：hua.mvc.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.sql)
-
-<br>
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012：hua.mvc.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.sql)
 
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">**b/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040324.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040328.png" height="300" width="400"/>
-
-<br>
 
 <br>
 
@@ -165,29 +147,25 @@
 
 [项目实战：PB／ORACLE：C/S架构 学生成绩教务管理系统](https://blog.csdn.net/qq_33154343/article/details/80444737)
 
-<br>
-
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">**版本:**</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
 
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
+<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">**源码下载:**</font> [05_PB_Oracle_学生教务管理系统](https://github.com/touwoyimuli/2018_01_website/blob/master/05_PB_Oracle_%E5%AD%A6%E7%94%9F%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81%5B%EF%BC%A3%EF%BC%8F%EF%BC%B3%E6%9E%B6%E6%9E%84%5D.zip)
-
-<br>
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [05_PB_Oracle_学生教务管理系统](https://github.com/touwoyimuli/2018_01_website/blob/master/05_PB_Oracle_%E5%AD%A6%E7%94%9F%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81%5B%EF%BC%A3%EF%BC%8F%EF%BC%B3%E6%9E%B6%E6%9E%84%5D.zip)
 
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">**c/s架构演示运行：**</font>
+<font color=#FE7207  size=4 face="幼圆">c/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040417.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040425.png" height="300" width="400"/>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040433.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709040441.png" height="300" width="400"/>
 
-<br><br>
+<br>
 
 ## 源码说明：
 
