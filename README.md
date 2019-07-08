@@ -197,7 +197,7 @@
 
 <br>
 
-## 协议
+## 协议：
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052148.jpg' width='240' height='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg'/>
 
