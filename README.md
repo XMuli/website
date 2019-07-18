@@ -6,9 +6,19 @@
 
 ## 项目介绍：
 
-2018-05-ASP.NET、PowerBuilder 12.5语言编写
+2018_01_website：因为当初想着按照***年份-仓库个数-语言***命名仓库，现在发现不便修改名称，故会一直沿用
+
+ASP.NET、PowerBuilder 12.5、c#语言编写
 
 网站设计一类源码仓库
+
+- **01_ASP.NET_大学bbs论坛：** bbs论坛项目项目
+- **02_ASP.NET_个人空间相册：** 网站照片上传、下载文件系统
+- **03_ASP.NET_学生-教师系统：** c/s、b/s架构的学生-教师系统系统
+- **04_ASP.NET_通讯录：** 网站的通讯录系统
+- **05_PB_Oracle_学生教务管理系统：** c/s、b/s架构的学生教务管理项目
+
+
 
 <font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
 
@@ -175,9 +185,9 @@
 
 ## 说明：
 
-**编程环境：** win10 x64 专业版
+**编程环境：**  `win10 x64 专业版`
 
-**编程软件：** visual studio 2015
+**编程软件：**  `visual studio 2015`， `Qt Creator 4.8.2 (Enterprise)`， `Qt 5.9.8`
 
 <br>
 
