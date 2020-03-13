@@ -64,8 +64,8 @@
 
 - **附件说明：** 
   -  [E-R图设计](https://github.com/xmuli/website/tree/master/03_ASP.NET_学生-教师系统/E-R图设计) 、 [图片素材](https://github.com/xmuli/website/tree/master/03_ASP.NET_学生-教师系统/图片素材) 、 
-  - [hua_elective 【C／Ｓ源码】.zip](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective [C／Ｓ源码].zip) 
-  -  [hua_elective【Ｂ／Ｓ源码】.zip](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective[Ｂ／Ｓ源码].zip) 
+  - [C／Ｓ源码](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective [C／Ｓ源码].zip) 
+  -  [Ｂ／Ｓ】.zip](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective[Ｂ／Ｓ源码].zip) 
   - [hua_elective带数据和架构\].sql](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective[带数据和架构].sql) 
   - [使用代码生成器创建MVC底层2018-06-16_190300.wmv视频](https://github.com/xmuli/website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E5%88%9B%E5%BB%BAMVC%E5%BA%95%E5%B1%822018-06-16_190300.wmv)
 
