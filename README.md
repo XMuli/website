@@ -1,16 +1,14 @@
-# 2018_01_website
+# website
 
 
 
-![](https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/log/20190708214213.png)
+<img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/muli.png"  height="240" width="240" />
 
 ## 项目介绍：
 
-2018_01_website：因为当初想着按照***年份-仓库个数-语言***命名仓库，现在发现不便修改名称，故会一直沿用
+`ASP.NET`、`PowerBuilder 12.5`、`c#` 、`Oracle` 语言编写
 
-ASP.NET、PowerBuilder 12.5、c#语言编写
-
-网站设计一类源码仓库
+网站设计一类源码仓库:
 
 - **01_ASP.NET_大学bbs论坛：** bbs论坛项目项目
 - **02_ASP.NET_个人空间相册：** 网站照片上传、下载文件系统
@@ -18,36 +16,18 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 - **04_ASP.NET_通讯录：** 网站的通讯录系统
 - **05_PB_Oracle_学生教务管理系统：** c/s、b/s架构的学生教务管理项目
 
+<br>
 
-
-<font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
-
-<font color=#70AD47 size=4 face="幼圆">**代码大小：**</font>![](https://img.shields.io/github/languages/code-size/touwoyimuli/2019_01_Qt5_ChinessChess.svg?logo=chess)
-
-<font color=#70AD47 size=4 face="幼圆">**项目进度：**</font>![](http://progressed.io/bar/100?title=completed)
-
-<font color=#70AD47 size=4 face="幼圆">**Forks分支数量：**</font>![](https://img.shields.io/github/forks/touwoyimuli/2018_01_website.svg)
-
-<font color=#70AD47 size=4 face="幼圆">**Stars星数量：**</font>[![](https://img.shields.io/github/stars/touwoyimuli/2018_01_website.svg)](https://travis-ci.org/Alamofire/Alamofire)
-
-<font color=#70AD47 size=4 face="幼圆">**支持平台：**</font>![](https://img.shields.io/conda/pn/conda-forge/qt.svg)
+![](https://img.shields.io/github/forks/xmuli/website) ![](https://img.shields.io/github/stars/xmuli/website) ![](https://img.shields.io/github/license/xmuli/website) ![](https://img.shields.io/badge/language-asp.net-orange.svg) 
 
 <br>
 
-## **01_ASP.NET_大学bbs论坛:**
+## 01_ASP.NET_大学bbs论坛:
 
 ### 相关文章链接：
 
 [项目实战：ASP.NET：C/S架构 大学BBS论坛项目（推荐★★★）](https://blog.csdn.net/qq_33154343/article/details/80445982
 )
-
-### 源码说明：
-
-<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
-
-<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
-
-<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
 <font color=#70AD47 size=4 face="幼圆">源码下载:</font> [01_ASP.NET_大学bbs论坛](https://github.com/touwoyimuli/2018_01_website/tree/master/01_ASP.NET_%E5%A4%A7%E5%AD%A6bbs%E8%AE%BA%E5%9D%9B)
 
@@ -65,7 +45,7 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 <br>
 
-## **02_ASP.NET_个人空间相册:**
+## 02_ASP.NET_个人空间相册:
 
 ### 相关文章链接：
 
@@ -73,25 +53,17 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
-
-<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)
-
-<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
-
 <font color=#70AD47 size=4 face="幼圆">源码下载:</font> [02_ASP.NET_个人空间相册](https://github.com/touwoyimuli/2018_01_website/tree/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C)
 
 <font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012脚本：hua.test.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/02_ASP.NET_%E4%B8%AA%E4%BA%BA%E7%A9%BA%E9%97%B4%E7%9B%B8%E5%86%8C/hua.test.sql)
 
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
-
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035553.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035559.png" height="300" width="400"/>
 
 <br>
 
-## 03_ASP.NET_学生-教师系统:
+### 03_ASP.NET_学生-教师系统:
 
 ### 相关文章链接：
 
@@ -99,23 +71,19 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font>
 
-<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  ![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
+-  [E-R图设计](https://github.com/xmuli/website/tree/master/03_ASP.NET_学生-教师系统/E-R图设计) 、 [图片素材](https://github.com/xmuli/website/tree/master/03_ASP.NET_学生-教师系统/图片素材) 、 
+- [hua_elective 【C／Ｓ源码】.zip](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective [C／Ｓ源码].zip) 
+-  [hua_elective【Ｂ／Ｓ源码】.zip](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective[Ｂ／Ｓ源码].zip) 
+- [hua_elective带数据和架构\].sql](https://github.com/xmuli/website/blob/master/03_ASP.NET_学生-教师系统/hua_elective[带数据和架构].sql) 
+- [使用代码生成器创建MVC底层2018-06-16_190300.wmv视频](https://github.com/xmuli/website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E5%88%9B%E5%BB%BAMVC%E5%BA%95%E5%B1%822018-06-16_190300.wmv)
 
-<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
 
-<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [03_ASP.NET_学生-教师系统]([https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_学生-教师系统))
-
-<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [E-R图设计](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/E-R%E5%9B%BE%E8%AE%BE%E8%AE%A1)、 [图片素材](https://github.com/touwoyimuli/2018_01_website/tree/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90)、 [数据库SQLServer 2012：hua_elective[带数据和架构].sql](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%5B%E5%B8%A6%E6%95%B0%E6%8D%AE%E5%92%8C%E6%9E%B6%E6%9E%84%5D.sql)、
-
-​                       [hua_elective 【C／Ｓ源码】.zip](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%20%E3%80%90C%EF%BC%8F%EF%BC%B3%E6%BA%90%E7%A0%81%E3%80%91.zip)、 [hua_elective【Ｂ／Ｓ源码】.zip](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/hua_elective%E3%80%90%EF%BC%A2%EF%BC%8F%EF%BC%B3%E6%BA%90%E7%A0%81%E3%80%91.zip)、 
-
-​                       [使用代码生成器创建MVC底层2018-06-16_190300.wm视频](https://github.com/touwoyimuli/2018_01_website/blob/master/03_ASP.NET_%E5%AD%A6%E7%94%9F-%E6%95%99%E5%B8%88%E7%B3%BB%E7%BB%9F/%E4%BD%BF%E7%94%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8%E5%88%9B%E5%BB%BAMVC%E5%BA%95%E5%B1%822018-06-16_190300.wmv)
 
 ### 项目运行演示：
 
-<font color=#FE7207  size=4 face="幼圆">c/s架构演示运行：</font>
+<font color=#FE7207  size=4 face="幼圆">b/s架构演示运行：</font>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035804.png" height="300" width="400"/><img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709035812.png" height="300" width="400"/>
 
@@ -133,15 +101,7 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
-
-<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-asp.net-orange.svg)  
-
-<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
-
-<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [04_ASP.NET_通讯录](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.zip)
-
-<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [数据库SQLServer 2012：hua.mvc.sql](https://github.com/touwoyimuli/2018_01_website/blob/master/04_ASP.NET_%E9%80%9A%E8%AE%AF%E5%BD%95/hua.mvc.sql)
+<font color=#70AD47 size=4 face="幼圆">附件说明：</font> [hua.mvc.sql](https://github.com/xmuli/website/blob/master/04_ASP.NET_通讯录/hua.mvc.sql) 、 [hua.mvc.zip](https://github.com/xmuli/website/blob/master/04_ASP.NET_通讯录/hua.mvc.zip)
 
 ### 项目运行演示：
 
@@ -159,13 +119,7 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 ### 源码说明：
 
-<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
-
-<font color=#70AD47 size=4 face="幼圆">编码语言：</font>![](https://img.shields.io/badge/language-PowerBuilder-orange.svg)
-
-<font color=#70AD47 size=4 face="幼圆">项目进度：</font>![](http://progressed.io/bar/100?title=completed)
-
-<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [05_PB_Oracle_学生教务管理系统](https://github.com/touwoyimuli/2018_01_website/blob/master/05_PB_Oracle_%E5%AD%A6%E7%94%9F%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%95%99%E5%8A%A1%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81%5B%EF%BC%A3%EF%BC%8F%EF%BC%B3%E6%9E%B6%E6%9E%84%5D.zip)
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> 
 
 ### 项目运行演示：
 
@@ -199,7 +153,7 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 ## 关于作者：
 
-<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> touwoyimuli@gmai.com         [作者更多联系方式](https://touwoyimuli.github.io/about/)
+<font color=#70AD47 size=4 face="幼圆">**xmuli：** </font> xmulitech@gmail.com         [作者更多联系方式](https://xmuli.tech/about/)
 
 <br>
 
@@ -207,8 +161,8 @@ ASP.NET、PowerBuilder 12.5、c#语言编写
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052148.jpg' width='240' height='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg'/>
 
-<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> 博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/LICENSE)。
+博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/LICENSE)。
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg' width='127' height='127'/>
 
-<font color=#70AD47  size=4 face="幼圆">**touwoyimuli：** </font> 所含文章使用以下协议进行保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。
+所含文章使用以下协议进行保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。
